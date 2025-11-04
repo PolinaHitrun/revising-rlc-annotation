@@ -1,0 +1,29 @@
+Sent,Error,annotator_new1,annotator_new2,annotator_new3,annotator_old1,annotator_old2,annotator_old3
+"Чем больше я путешествую, тем больше мне нравятся все новые места и города, и поэтому мне на это очень трудно ответить.",тем больше мне нравятся все новые места и города,Ref + Extra + Transfer ,,Lex + Extra,Not-clear,Lex,Ref + Extra
+"Когда я посещаю новую дестинации и её столицу или самый большой город в окрестности, я почти всегда влюблюсь в его.",дестинации,Gov + Lex + Transfer,CS + Gov,Gov,CS,Transfer,CS
+,влюблюсь,Asp,Asp,Tense,Asp,Asp,Asp
+,в его,Ref + AgrNum,Ref,Gov + Ref,Ortho,Ref,Ref + Subst
+"Это потому что, я очень люблю узнавать новую культуру, посещать достопримечательности и музеи или просто гулять по данном городе и окунуться в его атмосферу.",узнавать,Lex + Transfer,Lex,Lex,Asp,Lex,Lex
+,по данном городе,"Gov
+",Gov + AgrCase,Gov,ArgStr,AgrCase + AgrGender,Prep + Subst
+,окунуться,Asp,Asp,Asp,Asp,Asp,Lex
+"В настоящее время ситуация очень сложна, мы не возможны путешествовать или только при определенных условиях, и я чувствую себя очень грустно.",мы не возможны,Lex,Lex,Lex,Asp,Morph + Constr + Syntax,Mode
+,чувствую себя очень грустно,Idiom + Transfer,Constr,Constr,Constr,Сonstr,Lex
+"Я знаю, что в нашей стране существует большое количество городов, которое я до сих пор не посетила, но мне просто привлекают зарубежные города, и поэтому когда мне нужно сказать только один, в том случае, самым красивым городом в мире является Барселона.",мне привлекают,Gov,Ref,Ref,Gov,Gov + Constr ,Ref + Subst
+,сказать,Lex,Lex,Lex,Lex,Lex,Lex
+,в том случае,Ref,Ref,Ref,Constr + Transfer,Lex,Ref + Subst
+"Я Барселону посетила пока только один раз в прошлом году, но нужно сказать, что я уже с детства мечтала об этом путешествии.",Я Барселону посетила,WO,WO,WO,WO,WO,Prep + Miss + Lex
+"Барселона мне привлекала прежде всего футболом, потому что я с детства болю за команду Барселона, но когда я добралась туда, было намного больше чем стадион и футбол.",мне привлекла,Gov,Ref,Ref,Gov,Gov,Ref + Subst
+,болю,Infl,Inf,Ortho,Altern,Altern + Morph,Deriv
+,было намного больше чем,Ref + Miss,Syntax,Miss,Not-clear,Ref + Miss,Disc + Lex + Constr
+Барселона мне совсем вдохновила.,мне вдохновила,Gov,Ref,Ref,Gov,Gov,Ref + Subst
+,совсем,Lex,Lex,Lex,Lex,Lex,Lex
+"Самая красивая вещь, по-моему, архитектура Гауди пронизана по целом городе – на каждом углу находиться здание в Гауди своеобразном стиле.",пронизана ,Voice,,Voice,Passive,Lex + Morph,Conj + Subst
+,по,Prep + Extra,,,Not-clear,Prep,Prep + Extra
+,целом городе ,Gov,,Gov,Gov,Lex,AgrCase + Lex
+,находиться,Ortho,Asp,Ortho,Ortho,AgrPers,Tense
+,в Гауди своеобразном стиле,WO,WO + Transfer,WO,Lex,WO,Transp
+"Мне наиболее вдохновил собор Саграда Фамилия, который до сих пор не закончен.",мне вдохновила,Gov,Ref,Ref + AgrGender,Gov,Gov + Constr ,Ref + Subst
+,не закончен,Lex,Lex,Lex,Not-clear,Lex,Lex
+"Закат солнца у этого монументального здания был самым красивым, что я видела за последнее время.",Закат солнца,Constr,Lex + Extra,Constr,Not-clear,Lex + Extra,Lex + Extra
+"Это только моё мнение, что Барселона самый красивый город в мире, возможно я изменю свое мнение когда я посещу Париж или другие города мира, но я уверена в том, что Барселона город, куда хочется вернуться.",я изменю свое мнение когда я посещу,Ref + Extra,Constr,Extra,Constr,Not-clear,Ref + Extra

@@ -1,0 +1,34 @@
+Sent,Error,annotator_new1,annotator_new2,annotator_new3,annotator_new4,annotator_old1,annotator_old2,annotator_old3
+Жизнь прожиить — не по́ле перейтии.,прожиить,Typo,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho + Extra
+,перейтии,Typo,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho + Extra
+"Каждый человек совершает ошибки, некоторые из них маленькие, некоторые влияют нашу жизнь, но ошибки неизбежны.",влияют нашу жизнь,Prep + Miss + Transfer,Miss + Gov + Prep ,Prep + Miss,Prep + Miss,ArgStr,Gov + Miss + Prep,Prep + Miss
+"Однако общество, в котором мы живем, заставляет нас стыдиться своих ошибок: каждий ошибка считается как грех, и мы чувствуем себя неудачниками.",каждий ошибка,AgrGender + Ortho,Gender,AgrNum + Ortho,AgrGender + Ortho + ,AgrGender + Ortho,AgrGender,Ortho + Mode + AgrGender
+,считается как грех,Constr + Transfer ,Extra + Lex,Conj + Gov,Constr,ArgStr,Gov,Conj + Extra
+"Наши рабочные и светские жизни должны быть идеальные, без ошибок.",рабочные,Deriv,Ortho,Lex,Ortho,Deriv,Deriv + Insert,Deriv
+,идеальные,Gov,Gov,AgrCase,AgrCase,Gov,Brev,
+"Поэтому, мы находимся под большим давлением, чтобы мы били идеальними и считали ошибки польними неудачами. ",били,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho
+,идеальними,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho + Extra,Ortho + Extra
+,польними,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho + Extra,Ortho + Extra
+"Это значит, что часто мы чувствуем грусть и депрессию.",чувствуем грусть и депрессию,Lex + Constr,Lex + Miss,Lex,Lex,Not-clear,Constr + Lex + Miss,Idiom + Miss + Transp
+"Конечно, мы рады когда нас удасться, но каждая ошибка даёт нас возможность учиться и работать лучше.",нас ,Gov ,Gov ,Prep + Miss,Gov,AgrCase,Gov,Ref
+,удасться,Asp + Inf + Ref + Miss,Asp + Lex + Inf + Miss,Asp,Tense + Ortho,Asp,Tense + Miss,Ortho + Extra
+,даёт нас,Gov,Gov + Ref,Prep,Gov,AgrCase,Gov,Ref
+"Может быть, что они помагают нам, найти что-то новое.",помагают,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho + Subst
+"У нас есть два варианта: мы либо злятся или загрустят и сдадимся, либо принять нашу неудачу и учиться на ней.",злятся,AgrPers,AgrPers,Lex + Asp,Refl,AgrPers + Asp,AgrPers,Mode + ArgPers
+,загрустят,AgrPers + Asp,AgrPers,AgrPers,Tense + Ortho,AgrPers,AgrPers + Asp,Deriv + Mode + ArgPers
+"Он открыл многие важные вещи, но самый важный он отркыл благодаря ошибки. ",отркыл,Ortho + Transp,Ortho + Transp,Typo,Ortho,Ortho + Transp,Ortho + Transp,Ortho + Transp
+Флеминг он уехал в отпуск и оставил свои чашки Петри в его лаборатории.,он,Ref + Extra,Ref + Extra,Ref + Extra,Ref + Extra,Constr + Extra,Ref + Extra,Ref + Extra
+,его,Ref + Extra,Ref ,Ref + Extra,Ref,Constr + Extra,Ref,Ref + Subst
+"Микробиолог осмотрел их и нашел чашка Петри, где была плесень и никаких бактерий. ",чашка,Gov,Gov,Gov,Gov,Gov,Gov,AgrCase
+"Такая плесень – пенициллин, первый анитбиотик истории медицины.",анитбиотик,Ortho + Transp,Ortho + Transp,Typo,Ortho,Ortho + Transp,Ortho + Transp,Ortho + Transp
+"Значит, что если бы он не совершил эту ошибку, может быть у нас у нас было бы не так много лекарств и антибиотиков, с которыми можно лечить болезни.",у нас у нас,Lex + Extra,Extra,Lex + Extra,Ref + Extra,Extra,Constr + Extra,Extra
+"Во-вторых, нельзя забывать, что мы только всего лишь люди.",только всего лишь,Lex + Extra,Extra,Lex + Extra,Lex + Extra,Constr + Extra,Extra,Conj + Extra
+"Мы неидеальные, часто ошибаются, и это не то, чего мы должны стыдиться.",мы ошибаются,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,Mod + ArgPers
+"Они люди, как нас.",как нас,Constr + Transfer ,Ref,Ref,Gov,Gov,Constr,Ref + Subst
+"Общество имеет несостоятельные стандарды, в работе, в нашей семье, с нашими друзьями, и о наших телах. ",несостоятельные,Lex,Ortho,Lex,Lex,Lex,Lex,Lex
+,стандарды,Ortho + Transfer ,Prep + Gov,Ortho,Ortho,Ortho,Ortho,Ortho + Subst
+,стандарты о наших телах,Gov,Ortho,Gov,Constr,Constr,Gov,Prep + Extra
+"Если ты не соответствуешь стандардам, тебя наказывают, часто очень сильно.",стандардам,Ortho + Transfer ,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho + Subst
+"Но правда в том, что мы все несовершенны, и ошибки могут нам помогать чтобы стать лучшими людьми и  быть счастливым. ",помогать чтобы стать,Conj + Extra,Conj + Extra,Constr,Conj + Extra,Constr + Extra,Constr + Conj + Extra,Ref + Conj
+"Мы думаем что, потому что нас учат этому с детства, и это может означать, что мы никогда не будем довольны с тем, что мы делаем.",довольны с тем,Prep + Extra + Transfer,Prep + Extra,Conj,Prep + Extra,ArgStr,Prep + Extra,Prep + Extra
+"Если мы хотим быть счастливее и меньше напряжёнными, мы должны  бы принимать ошибки как возможности.",меньше напряжёнными,Lex,Com,Com,Lex,Com,Morph + Com,Com

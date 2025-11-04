@@ -1,0 +1,48 @@
+Sent,Error,annotator_new1,annotator_new2,annotator_new3,annotator_old1,annotator_old2,annotator_old3
+Каждый человек может понимать самый красивый город по-разному.,понимать,Lex + Transfer,Lex,Lex,,Lex,Lex
+"Например, по взгляду или по отношениях.",взгляду,Constr + Transfer,Lex,Lex,,Constr ,
+,отношениях,Gov + Lex + Transfer + Ref + Miss,Lex,Gov,,Syntax,AgrCase + Num
+"Например, человек прожил часть жизни в городе и возникли у него отношения к месту и воспоминание.",возникли у него,WO,Lex,WO,Num,Lex,Lex
+,отношения,Num + Lex + Transfer,Lex,Num + Miss,Lex,Num,Lex
+,к,Prep,,,,,Prep + Subst
+,месту,Gov + Ref + Miss,,,,Ref,Case
+,воспоминание,Num + Ref + Miss,Constr,Num,Num + WO,Num,Num
+"Этот город находится в северной Италии и расположен на 118 островах, которые соединенные каналами и мостами.",соединенные,Brev,Brev,Voice,Brev,AgrCase,Brev
+"Существует легенда о том, что эти сваи вырубленные из сибирских лесов, точно это дерево из сибирской лиственницы.",вырубленные,Brev,Brev,Voice,Brev,Brev,Brev
+,точно,Conj + Transfer,Conj,Lex,,Сonj ,Lex
+,из,Prep + Extra + Transfer,Lex+Miss,,,,Prep + Extra
+,это дерево из сибирской лиственницы,Syntax + Constr,Lex+Extra,Constr,Lex,Lex,Lex + Prep + Extra
+Дворец дожей построен в готическом стиле. Дворец служил резиденцией дожей республики и здесь заседал Большой совет и Верховный суд.,заседал,AgrNum,Constr,AgrNum,,Constr + Syntax + AgrNum,Lex
+Здание является примером византийской архитектуры.,примером,Lex + Transfer,Lex,,,,Lex
+"Что я считаю очень интересным это факт, что в Венеции нет машин.",факт,Ref + Miss,Conj,,,Ref Miss,Lex + Extra
+,я считаю,Constr + Transfer,Lex,Constr,,Lex,Ref + Disc + Lex + Subst
+Если человек хочет двигаться по городу у него несколько возможностей - пешком или на велосипеде.,двигаться,Lex,Lex,Lex,,Miss Prefix,Lex
+,несколько,Aux + Miss,Lex,Lex,Lex,Miss + Constr,Aux + Miss
+,возможностей,Lex,Lex,Lex,Lex,Lex,Lex
+"Если человек хочет двигаться между островами, самым быстрым видом транспорта - корабль.",двигаться,Lex,Lex,Lex,Lex,Lex,Lex + Asp + Subst
+,корабль,Aux + Miss,Aux + Lex,Lex + Extra,Lex,Lex,Aux + Miss
+Это один из главных городских транспортов.,транспортов,Gov + Lex + Miss,Constr,Constr,Lex,Num + Constr + Miss,Lex + Miss
+"Когда в городе нет автомобилей, там единственная атмосфера, когда у человека возникает впечатление, что он возвратился во времени, где машины не существуют.",единственная,Lex + Miss + Transfer,Lex,Lex,Lex,Constr + Lex,Lex
+,когда,Conj,Conj,,Lex,AgrCase + Conj,Prep + Miss + Conj + Subst
+,возникает,Idiom,Lex,Lex,Lex,,Lex
+,времени,Gov,Gov,Lex,Lex,Asp + Gov,Num
+,где,Conj,Conj,Ref,Lex,AgrCase + Conj,Conj + Subst
+,существуют,Tense,Tense,Tense,Tense,Tense,Tense
+"Весь город полный малых улиц и переулок, где возможно потеряться и бродить весь день.",полный,Brev,Brev,Gov,Brev,Brev,AgrGerund
+,малых,Lex,Lex,Lex,Brev,Lex,Deriv + Lex
+,переулок,Infl,Infl,Num,Gender,AgrCase,AgrCase
+,возможно,Lex + Transfer,Lex,Lex,Lex,Lex + Extra prefix,Deriv
+"Несколько раз в течение года, наводнение постигнут Венецию.",наводнение,Num,Num,Num,Num,Num,Num
+,постигнут,Lex + Asp,Lex + Asp,AgrNum,Lex,Lex,Lex
+В этот момент возникает проблема ходить по улицам.,этот момент,Num,Constr,Lex,Lex,Lex,Lex + Ref
+,ходить,Syntax,Lex + Voice,Lex,Lex,Lex,Prep + Miss + Lex
+"По этому поводу деревянные мостики заведенные в городе, чтобы облегчить жителям и туристам движение по городу.",деревянные мостики заведенные в городе,WO,WO,Constr + Voice,WO,Lex ,Passive + Lex
+,заведенные,Brev,Lex,Lex,Brev,,Brev
+"С одной стороны наводнения являются угрозой для города, но с другой стороны это аттракцион для туристов.",аттракцион,Lex + Transfer,Lex + Transfer,,CS,Lex,Lex
+Город уничтожен водой и постепенно уходит под нее.,уничтожен,Asp,Voice,Voice + Lex,,Tense + Asp + Lex + Constr,Lex
+"В течение нескольких годов может стать, что Венеция уже не будет.",годов,Altern,Lex,Lex,Altern,AgrNum,Num + Subst
+,что,Ref + Miss,Conj,,,Constr + Conj,Conj + Miss
+,Венеция,Gov,Gov,Gov,Constr,Gov,Case
+"Это производит грустное впечатление, воображение, что однажды этого города больше не будет.",это производит грустное впечатление,Syntax,Constr,Constr + Lex,Constr,,Disc + Lex + Num
+,воображение,Lex,Lex,Lex,Lex,Constr,Lex + Num
+,что,Ref + Miss,Conj,,,,Conj + Miss + Subst
