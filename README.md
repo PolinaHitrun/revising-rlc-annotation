@@ -61,8 +61,42 @@ This module is used by both analysis notebooks and can be adapted for future lar
 
 All required Python packages are listed in requirements.txt.
 To recreate the environment:
-```
+``` bash
 pip install -r requirements.txt
 ```
+## How to use
+The script `pipeline.py` provides an interface for computing inter-annotator agreement metrics for any set of annotation files. It supports multi-label tags and calculates four agreement measures: Fleiss’ kappa, Cohen’s kappa (mean pairwise), Krippendorff’s alpha, and mean pairwise Jaccard similarity.
 
+### Input Format
+Each annotation file must be a CSV table where the first column contains error slot identifiers (e.g., token IDs or manually defined indices), all remaining columns correspond to annotators and each cell contains a list of tags, separated by +, comma, or whitespace.
+#### Example
+| id | annotator1   | annotator2 | annotator3   |
+|----|--------------|------------|--------------|
+| 1  | Ortho+Miss   | Ortho      | Ortho        |
+| 2  | Misspell     |            | Misspell     |
+| 3  | Gov          | Gender     | Gov          |
 
+To run pipeline as a script modify the `FILE_PATHS`:
+``` python
+if __name__ == "__main__":
+    FILE_PATHS = ["all/text1.csv", "all/text2.csv", "all/text3.csv"]
+    results = run_pipeline(FILE_PATHS)
+    for metric, value in results.items():
+        print(f"{metric}: {value:.4f}")
+```
+and run:
+``` bash
+python pipeline.py
+```
+Or you can import it to your project:
+```
+from pipeline import run_pipeline
+
+files = ["all/text1.csv", "all/text2.csv", "all/text3.csv"]
+metrics = run_pipeline(files)
+print(metrics)
+```
+### Notes and Limitations
+- Fleiss’ kappa, Cohen’s kappa, and Krippendorff’s alpha currently operate on a single dominant label per annotation slot (the highest-index label after binarization), because standard libraries do not support true multi-label categorical agreement.
+- Jaccard similarity captures full multi-label overlap and is often more informative for multi-tag settings.
+- Empty cells are treated as “no tags” and converted to empty sets.
