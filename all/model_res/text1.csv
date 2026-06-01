@@ -1,0 +1,101 @@
+Sent,Error,annotator_DeepSeek_new1,annotator_DeepSeek_new2,annotator_DeepSeek_new3,annotator_Claude_new1,annotator_Claude_new2,annotator_Claude_new3,annotator_DeepSeek_old1,annotator_DeepSeek_old2,annotator_DeepSeek_old3,annotator_Claude_old1,annotator_Claude_old2,annotator_Claude_old3,annotator_gpt_new1,annotator_gpt_new2,annotator_gpt_new3,annotator_gpt_old1,annotator_gpt_old2,annotator_gpt_old3,annotator_gemini_new1,annotator_gemini_new2,annotator_gemini_new3,annotator_gemini_old1,annotator_gemini_old2,annotator_gemini_old3
+Жизнь прожиить — не по́ле перейтии.,прожиить,Ortho,Ortho,Ortho,Typo,Typo,Typo,Ortho+Subst,Ortho+Subst,Ortho+Subst,Ortho+Extra,Ortho+Extra,Ortho+Extra,Ortho,Graph,Ortho,Miss,Ortho+Extra,Ortho+Extra,Ortho,Ortho,Ortho,Ortho+Extra,Ortho+Extra,Ortho+Extra
+Жизнь прожиить — не по́ле перейтии.,поле,Ortho,Ortho,,,,,,Ortho+Subst,Misspell,,,,,,,,,,,,Typo,,,Ortho
+Жизнь прожиить — не по́ле перейтии.,перейтии,Ortho,Ortho,Ortho,Typo,Typo,Typo,,Ortho+Subst,Ortho+Subst,Ortho+Extra,Ortho+Extra,Ortho+Extra,Ortho,Graph,Ortho,Miss,Ortho+Extra,Ortho+Extra,Ortho,Ortho,Ortho,Ortho+Extra,Ortho+Extra,Ortho+Extra
+Жизнь прожиить — не по́ле перейтии.,по́ле перейтии,,,,,,,Idiom,,,,,,,,,,,,,,,,,
+"Каждый человек совершает ошибки, некоторые из них маленькие, некоторые влияют нашу жизнь, но ошибки неизбежны.",влияют нашу жизнь,Gov,Gov,Gov,Gov,Gov,Gov,Gov,,Miss,Gov,Gov+Miss,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Prep+Miss,Gov,Gov,Gov+Subst,Gov+Subst
+"Однако общество, в котором мы живем, заставляет нас стыдиться своих ошибок: каждий ошибка считается как грех, и мы чувствуем себя неудачниками.",каждий,Ortho,Ortho,Ortho,Infl,Infl,Ortho,Ortho+Subst,Ortho+Subst,Gender,Ortho+Subst,,Ortho+Subst,Infl,Graph,Infl,AgrGender+Subst,Infl+Subst,Infl+Subst,Ortho,,AgrGender,AgrGender,AgrGender+Subst,AgrGender+Subst
+"Однако общество, в котором мы живем, заставляет нас стыдиться своих ошибок: каждий ошибка считается как грех, и мы чувствуем себя неудачниками.",каждий ошибка,,,,,,AgrGender,AgrGender,,,AgrGender,,AgrGender,AgrGender,Syntax,AgrGender,AgrCase,AgrGender,AgrGender,AgrGender,AgrGender,,,,
+"Однако общество, в котором мы живем, заставляет нас стыдиться своих ошибок: каждий ошибка считается как грех, и мы чувствуем себя неудачниками.",как грех,Prep,Conj,Gov,Constr,Constr,,Conj,,Constr+Subst,Constr+Subst,,,Constr,Constr+Transfer,Constr,Constr,Constr,Constr,,Constr,Constr+Transfer,Constr,Constr,Gov+Extra
+"Наши рабочные и светские жизни должны быть идеальные, без ошибок.",рабочные,Morph,Misspell,Deriv,Deriv,Deriv,Deriv,Deriv,Ortho+Subst,Ortho+Subst,Deriv,Ortho+Subst,Deriv,Deriv,Lex,Deriv,Lex,Deriv,Deriv,Ortho,Ortho,Deriv,Deriv,Deriv+Insert,Deriv+Insert
+"Наши рабочные и светские жизни должны быть идеальные, без ошибок.",светские,Lex,,Lex,,,,Lex,,,,,,,,,,,,,,,Lex,,
+"Наши рабочные и светские жизни должны быть идеальные, без ошибок.",жизни,,,,,,,,,,,,,Num,,AgrNum,,,,Num,Num,Num,Num,Num,Num
+"Наши рабочные и светские жизни должны быть идеальные, без ошибок.",идеальные,AgrCase,Brev,AgrCase,Brev,Brev,Brev,AgrCase,AgrCase+Subst,AgrCase,Brev,Brev,Brev,Brev,Brev,,Brev,Brev,Brev,,,Brev,,,
+"Поэтому, мы находимся под большим давлением, чтобы мы били идеальними и считали ошибки польними неудачами.","Поэтому,",,,,,,,,,,,,,Syntax,Extra,Extra,,,,Space+Extra,,Extra,,Extra,Syntax
+"Поэтому, мы находимся под большим давлением, чтобы мы били идеальними и считали ошибки польними неудачами.",били,Aux,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho+Subst,Ortho+Subst,Ortho+Subst,,Ortho+Subst,,Ortho,Graph,Ortho,Subst,Ortho+Subst,Ortho+Subst,Ortho,Ortho,Ortho,Ortho+Subst,Ortho+Subst,Ortho+Subst
+"Поэтому, мы находимся под большим давлением, чтобы мы били идеальними и считали ошибки польними неудачами.",мы били идеальними,,,,,,,,,,Mode+Miss,,Mode,,Constr,,,,,,,Syntax+Transfer,,,Mode+Extra
+"Поэтому, мы находимся под большим давлением, чтобы мы били идеальними и считали ошибки польними неудачами.",идеальними,Infl,Infl,AgrCase,Infl,,Infl,Infl+Subst,Ortho+Subst,Ortho+Subst,Infl+Subst,Infl+Subst,Infl+Subst,Infl,Graph,Infl,AgrCase+Subst,Infl+Subst,Infl+Subst,Ortho,Ortho,Ortho,Ortho+Subst,Ortho+Subst,Ortho+Subst
+"Поэтому, мы находимся под большим давлением, чтобы мы били идеальними и считали ошибки польними неудачами.",польними,Ortho,Ortho,Ortho,,Misspell,Misspell,Ortho+Subst,Ortho+Subst,Misspell,Ortho+Subst,Ortho+Subst,Ortho+Subst,Ortho,Graph,Misspell,Subst,Ortho+Subst,Ortho+Subst,Ortho,Ortho,Lex,Misspell,Misspell,Ortho+Subst
+"Поэтому, мы находимся под большим давлением, чтобы мы били идеальними и считали ошибки польними неудачами.",считали ошибки полными неудачами,,,,,,,,,,,,,,Lex,Lex,,Lex,,,,,,,
+"Это значит, что часто мы чувствуем грусть и депрессию.",чувствуем грусть,,Gov,Lex,,,,,,,,,,,,,Lex,,,,,,,Lex,
+"Это значит, что часто мы чувствуем грусть и депрессию.",депрессию,,,Lex,,,,Lex,,Ortho,,,,,,,,,,,,,,,
+Но это правда?,правда,,,,,,,Disc,,,,,,,,,,,,,,,,,
+Ошибки – бесполезные и нежелательные?,бесполезные и нежелательные,,WO,AgrNum,,Brev,,AgrGender,,,,Brev,,Brev,Brev,Brev,Brev,Brev,Brev,,,,,Brev,
+"Конечно, мы рады когда нас удасться, но каждая ошибка даёт нас возможность учиться и работать лучше.",рады когда,Gov,Conj,,,,,Conj,,,,,,Miss,,Miss,,,,,,,,,
+"Конечно, мы рады когда нас удасться, но каждая ошибка даёт нас возможность учиться и работать лучше.",когда нас удасться,,,Syntax,,Refl+Gov,,,,Gov,,Gov+Subst,,,,,,,,Refl+Gov+Ortho+Not-clear,Ref+Refl,Constr+Refl,Constr,Constr,Syntax+Refl+Transfer
+"Конечно, мы рады когда нас удасться, но каждая ошибка даёт нас возможность учиться и работать лучше.",удасться,Ortho,Ortho,,Ortho,Gov,Ortho,Ortho+Subst,Ortho+Subst,,Ortho+Subst,Ortho+Subst,Ortho+Subst,Ortho,Lex,Ortho,Refl+Subst,Ortho+Subst,Ortho+Subst,,,,Ortho,Ortho+Subst,
+"Конечно, мы рады когда нас удасться, но каждая ошибка даёт нас возможность учиться и работать лучше.",даёт нас возможность,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov+Subst,Gov,Gov,Gov+Subst,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov+Subst,Gov+Subst
+"Может быть, что они помагают нам, найти что-то новое.",Может быть что,Conj,,,Conj+Miss,,,,,,Constr+Subst,Constr+Extra,,,Constr,,,,,,,Syntax,,,Constr
+"Может быть, что они помагают нам, найти что-то новое.",помагают,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho,Ortho+Subst,Ortho+Subst,Ortho+Subst,Ortho+Subst,Ortho+Subst,Ortho+Subst,Ortho,Graph,Ortho,Subst,Ortho+Subst,Ortho+Subst,Ortho,Ortho,Ortho,Ortho+Subst,Ortho+Subst,Ortho+Subst
+"Может быть, что они помагают нам, найти что-то новое.","нам, найти",,,,,Conj+Miss,Conj+Miss,,,Space+Insert,,,Syntax,Extra,Extra,Extra,Syntax,Syntax,Syntax,Space+Extra,,Extra,,Extra,Syntax
+"С одной стороны, ошибки значат что мы делали что-то дурное.",значат,Lex,,,,,,,Not-clear,Miss,,,,Ortho,Lex,Infl,Subst,Infl+Subst,Infl+Subst,,,,,,
+"С одной стороны, ошибки значат что мы делали что-то дурное.",делали что-то дурное,,,,Tense,Tense,Tense,,,,Asp,Asp,Tense,,,,,,,,,,,Asp,
+"С одной стороны, ошибки значат что мы делали что-то дурное.",значат что,,Conj,Gov,,,,Conj,,,,,,Miss,Conj,Miss,Conj,Conj,Conj,,,,,,Syntax
+"Например, когда мы не сдаём экзамен, мы наверное не изучали, или мы плохо изучали.",изучали,Lex,Lex,Lex,Lex,Lex,Lex,Lex,,Lex,Lex,Lex,Lex,Lex,Lex,Lex,Lex,Lex,Lex,Lex,Lex,Lex,Lex,Lex,Lex+Transfer
+"Например, когда мы не сдаём экзамен, мы наверное не изучали, или мы плохо изучали.",плохо изучали,,,,,,,Lex,,,,,,,,,,,,Lex,,,,Lex,Lex+Transfer
+"Например, когда мы не сдаём экзамен, мы наверное не изучали, или мы плохо изучали.",мы наверное,,,,,,,,Not-clear,,,,,WO,WO,WO,,,,,,,,,
+"У нас есть два варианта: мы либо злятся или загрустят и сдадимся, либо принять нашу неудачу и учиться на ней.",злятся,Infl,Refl,Infl,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers+Subst,AgrPers,Infl+Subst,AgrPers+Subst,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers+Subst,AgrPers+Subst
+"У нас есть два варианта: мы либо злятся или загрустят и сдадимся, либо принять нашу неудачу и учиться на ней.",загрустят,Tense,Asp,Lex,AgrPers,AgrPers,Asp,,AgrPers+Subst,AgrPers,Infl+Subst,AgrPers+Subst,Asp,AgrPers,AgrPers,AgrPers,,AgrPers,AgrPers,AgrPers,,AgrPers,AgrPers,AgrPers+Subst,AgrPers+Subst
+"У нас есть два варианта: мы либо злятся или загрустят и сдадимся, либо принять нашу неудачу и учиться на ней.",принять,Finit,,Mode,Finit,Finit,Finit,Mode,Mode+Subst,Ortho,,Mode,,Finit,Finit,Finit,Constr,Constr,Constr,Finit,Finit,Finit,Constr,Constr,Constr+Syntax
+"У нас есть два варианта: мы либо злятся или загрустят и сдадимся, либо принять нашу неудачу и учиться на ней.",сдадимся,,Asp,,,,Asp,Asp,,,,,,,,,,,,,,,,,
+"У нас есть два варианта: мы либо злятся или загрустят и сдадимся, либо принять нашу неудачу и учиться на ней.",либо...или,,,,,Conj,Conj,,,,Constr+Subst,Conj+Subst,Constr,Conj,Conj,,Constr,Conj,Conj,Conj,Conj,Conj,Conj,Conj,Conj+Subst
+"Если мы выбираем второй вариант, мы можем преобразовать ошибку в новый успех.",преобразовать ошибку в новый успех,,,,,Lex,Lex,Lex,,,Lex,,,,,,,,,,,,,,
+Важным примером является пенициллин.,пенициллин,,,,,,,Ortho+Subst,,,,,,,,,,,,,,,,,
+Важным примером является пенициллин.,Важным примером является пенициллин,,,,,,,,,,,,,WO,WO,Syntax,WO,WO,WO,,,,,,
+Сэр Александр Флеминг — британский микробиолог.,Сэр Александр Флеминг,,,,,,,Translit,,,,,,,,,,,,,,,,,
+Сэр Александр Флеминг — британский микробиолог.,британский,,,,,,,,,,Lex,,,,,,,,,,,,,,
+"Он открыл многие важные вещи, но самый важный он отркыл благодаря ошибки.",отркыл,Typo,Typo,Typo,Typo,Typo,,Ortho+Subst,Ortho+Subst,Ortho+Subst,Translit,Translit+Subst,,Typo,Graph,Typo,Transp,Ortho+Transp,Ortho+Transp,Typo,Typo,Typo,Transp,Ortho+Transp,Transp
+"Он открыл многие важные вещи, но самый важный он отркыл благодаря ошибки.",самый важный,,,,AgrGender,Syntax,,,,,AgrGender,AgrGender+Subst,WO,Miss,Extra,Miss,Ref+Del,Brev,Ref+Del,AgrGender+AgrCase,AgrNum,AgrNum+AgrGender,AgrGender,AgrGender+Subst,AgrNum+Subst
+"Он открыл многие важные вещи, но самый важный он отркыл благодаря ошибки.",благодаря ошибки,Gov,Gov,Gov,Gov,Gov,,Gov,Gov+Subst,Gov,Gov,Gov+Subst,,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov+Subst,Gov+Subst
+Флеминг он уехал в отпуск и оставил свои чашки Петри в его лаборатории.,Флеминг он,Ref+Extra,Ref+Extra,Ref + Extra,Ref+Extra,Ref+Extra,Ref+Extra,WO,Ref+Extra,Extra,Syntax+Extra,Syntax+Extra,Syntax+Extra,Extra,Extra,Extra,Extra,Extra,Extra,Ref+Extra,Syntax+Extra,Extra+Syntax,Syntax+Extra,Ref+Extra,Ref+Extra
+Флеминг он уехал в отпуск и оставил свои чашки Петри в его лаборатории.,в его лаборатории,Ref,,,Ref,Ref,Ref,Ref+Subst,Ref+Subst,,Ref+Subst,Ref+Subst,Ref+Subst,Ref,Ref,Ref,Ref,Ref,Ref+Subst,Ref,Ref,Ref+Transfer,Ref,Ref+Subst,Ref+Subst
+"Когда он вернулся, все они были заражены бактериями.",все они,,,,,,,WO,WO,,,,,,,,,,,,,,,,
+"Когда он вернулся, все они были заражены бактериями.",были заражены бактериями,,,,,,,,,,Passive,,Passive,,,,,,,,,,,,
+Самый важный он отркыл благодаря ошибки.,отркыл,,,,,,Typo,,,,,,Translit,,,,,,,,,,,,
+Самый важный он отркыл благодаря ошибки.,благодаря ошибки,,,,,,Gov,,,,,,Gov,,,,,,,,,,,,
+Самый важный он отркыл благодаря ошибки.,он,,,,,,Ref+Extra,,,,,,,,,,,,,,,,,,
+"Микробиолог осмотрел их и нашел чашка Петри, где была плесень и никаких бактерий.",нашел чашка,AgrCase,AgrCase,Gov,Gov,Gov,Gov,AgrCase,AgrCase+Subst,AgrCase,Gov,Gov+Subst,Gov,AgrCase,Gov,Gov,AgrCase,AgrCase,AgrCase,Gov,Gov,Gov,Gov,Gov+Subst,Gov+Subst
+"Такая плесень – пенициллин, первый анитбиотик истории медицины.",анитбиотик,Typo,Ortho,Ortho,Typo,Typo,Typo,Ortho+Subst,Ortho+Subst,Ortho+Subst,Translit,,Ortho+Translit,Typo,Graph,Typo,Transp,Ortho+Transp,Ortho+Transp,Typo,Typo,Typo,Transp,Ortho+Transp,Transp
+"Такая плесень – пенициллин, первый анитбиотик истории медицины.",истории медицины,,,,,,,,,,,,,Miss,Gov,Miss,Prep,Prep,Gov,Prep+Miss,Prep+Miss,Prep+Miss,Gov+Miss,Prep+Miss,Prep+Miss
+"Значит, что если бы он не совершил эту ошибку, может быть у нас у нас было бы не так много лекарств и антибиотиков, с которыми можно лечить болезни.",Значит что,Conj,Conj,Conj + Extra,,,,Conj,,,,,,Constr,Constr,Constr,Conj,Syntax,Constr,,Syntax+Extra,Syntax,Conj+Extra,Conj,Conj+Extra
+"Значит, что если бы он не совершил эту ошибку, может быть у нас у нас было бы не так много лекарств и антибиотиков, с которыми можно лечить болезни.",у нас у нас,Misspell,Extra,Ref + Extra,Typo+Extra,Typo+Extra,Lex+Extra,Extra,Extra+Del,Extra,Syntax+Extra,Syntax+Extra,Syntax+Extra,Extra,Extra,Extra,Extra,Extra,Extra,Typo,Typo+Extra,Typo+Extra,Extra,Extra,Extra
+"Значит, что если бы он не совершил эту ошибку, может быть у нас у нас было бы не так много лекарств и антибиотиков, с которыми можно лечить болезни.",с которыми можно лечить,,,,,,,,,,,,,,,,,,,Prep,Lex,Prep+Transfer,Gov,Gov+Subst,Gov+Subst
+Другой пример – кардиостимулятор.,кардиостимулятор,,,,,,,Ortho+Subst,,,,,,,,,,Lex,,,,,,,
+Другой пример – кардиостимулятор.,Другой,,,,,,,,,,Lex,,,,,,,,,,,,,,
+Другой пример – кардиостимулятор.,Другой пример – кардиостимулятор,,,,,,,,,,,,,Syntax,,Syntax,,,,,,,,,
+Он тоже была ошибка Уилсона Грэйтбатча.,тоже была,AgrGender,AgrGender,AgrGender,AgrGender,AgrGender,AgrGender,AgrGender,AgrGender+Subst,AgrGender,AgrGender,AgrGender+Subst,,AgrGender,AgrPers,AgreGender,AgrGender,AgrGender,AgrGender,AgrGender,AgrGender,AgrGender,AgrGender,AgrGender+Subst,AgrGender+Subst
+Он тоже была ошибка Уилсона Грэйтбатча.,Уилсона Грэйтбатча,,,,,,,Translit,Translit,,,,,,,,,,,,Translit,,Translit,,
+Он тоже была ошибка Уилсона Грэйтбатча.,была ошибка Уилсона Грэйтбатча,,,,,,,,,,,,,Constr,Constr,Syntax,Constr,Constr,Constr,,,,,,
+"Как и кукурузные хлопья, клейкие ноты и пластмасса Во-вторых, нельзя забывать, что мы только всего лишь люди.","Как и кукурузные хлопья, клейкие ноты и пластмасса",,,,Syntax,,,,Not-clear,,Syntax,,Syntax+Miss,,Syntax+Miss,Syntax,,Constr,,,Syntax,Syntax+Miss,,Syntax,Syntax+Miss
+"Как и кукурузные хлопья, клейкие ноты и пластмасса Во-вторых, нельзя забывать, что мы только всего лишь люди.",только всего лишь,,,,,Lex+Extra,Lex+Extra,WO,Not-clear,,,Syntax+Extra,Syntax+Extra,Extra,Extra,Extra,Extra,Extra,Extra,Lex+Extra,Lex+Extra,Extra,Extra,Extra,Extra
+"Как и кукурузные хлопья, клейкие ноты и пластмасса Во-вторых, нельзя забывать, что мы только всего лишь люди.",клейкие ноты,,,,,,,Lex,,,,,,Lex,Lex,Lex,,Lex,,Lex+Transfer,Lex+Transfer,Lex+Transfer,Lex+Transfer,Lex+Transfer,Lex+Transfer
+"Мы неидеальные, часто ошибаются, и это не то, чего мы должны стыдиться.",неидеальные,Ortho,Brev,Brev,,Brev,,Ortho+Subst,Brev+Subst,Brev,,Brev,AgrPers,Space,Miss,Space,Space,Brev,Brev,,,,,,
+"Мы неидеальные, часто ошибаются, и это не то, чего мы должны стыдиться.",ошибаются,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers+Subst,AgrPers,AgrPers,AgrPers+Subst,,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers,AgrPers+Subst,AgrPers+Subst
+"если мы ошибаемся, это не значит, что мы глупые или бесполезные, как говорит общество.",если,,Mode,,Caps,Caps,,,Ortho+Subst,,,,Ortho+Subst,Caps,Miss,Caps,,Ortho,,Caps,,Caps,,Ortho,Ortho
+"если мы ошибаемся, это не значит, что мы глупые или бесполезные, как говорит общество.",бесполезные,,,AgrNum,,,,Lex,,,Not-clear,,,,,,,,,,,,,,
+"если мы ошибаемся, это не значит, что мы глупые или бесполезные, как говорит общество.",глупые или бесполезные,,,,,,,,,,,Brev,,,,,Brev,Brev,Brev,,,,,,
+"если мы ошибаемся, это не значит, что мы глупые или бесполезные, как говорит общество.",как говорит общество,,,,,,,,,,ArgStr+Miss,,,,,,,,,,,,,,
+"даже теми, кем мы восхищаемся, кем у кого нет недостаток.",даже,,,,Caps,Caps,Syntax,,Constr+Subst,Constr+Subst,,,,Caps,,Caps,,Ortho,,,,,,,
+"даже теми, кем мы восхищаемся, кем у кого нет недостаток.",даже теми кем восхищаемся (нарушение структуры предложения),Syntax,WO,Syntax,Syntax,,,Constr+Subst,,,Not-clear,,,,Syntax,,,,,Syntax+Not-clear,Syntax,Caps+Syntax+Not-clear,Syntax+Not-clear,Syntax+Not-clear,Not-clear
+"даже теми, кем мы восхищаемся, кем у кого нет недостаток.",кем у кого,,,,,Conj,Conj,Constr+Subst,,,,Syntax+Extra,Constr,Syntax,Syntax,Syntax,Constr,Constr,Constr,,Syntax,Syntax,Syntax,Extra,
+"даже теми, кем мы восхищаемся, кем у кого нет недостаток.",нет недостаток,AgrNum,Gov,Gov,Gov,Gov,Gov,AgrGender,GenNeg+Subst,,Gov,GenNeg+Subst,GenNeg,Gov,Gov,Gov,Gov,AgrCase,Gov,Infl+Gov,Gov,Gov+Infl,Gov,Infl+Subst,Gov+Subst
+"Они люди, как нас.",как нас,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov+Subst,Constr+Subst,,Gov+Subst,,Gov,Gov+Transfer,Constr,,Constr,Constr,Gov,Gov,Gov+Transfer,Constr+Transfer,Gov+Subst,Gov+Subst+Transfer
+"Общество имеет несостоятельные стандарды, в работе, в нашей семье, с нашими друзьями, и о наших телах.",несостоятельные,Lex,Lex,Lex,,,,Lex,Lex,Lex,,,,Lex,Lex,Lex,Lex,Lex,Lex,Lex,Lex+Transfer,Lex,Lex,Lex,Lex+Transfer
+"Общество имеет несостоятельные стандарды, в работе, в нашей семье, с нашими друзьями, и о наших телах.",стандарды,,,Infl,Ortho,Ortho,Ortho,Ortho+Subst,Ortho+Subst,Ortho+Subst,Ortho+Subst,Ortho+Subst,Ortho+Subst,,Graph,,,,,Ortho,Ortho,Ortho,Ortho+Subst,Ortho+Subst,Ortho+Subst
+"Общество имеет несостоятельные стандарды, в работе, в нашей семье, с нашими друзьями, и о наших телах.","стандарды, в работе,",,,,,,,,,,,,,,,,,,,,,Extra,,,
+"Общество имеет несостоятельные стандарды, в работе, в нашей семье, с нашими друзьями, и о наших телах."," Общество имеет несостоятельные стандарды, в работе, в нашей семье, с нашими друзьями, и о наших телах.",,,,Syntax,,,,,,Constr+Subst,,Constr+Subst,,,,,,,,,,,,
+"Общество имеет несостоятельные стандарды, в работе, в нашей семье, с нашими друзьями, и о наших телах.",о наших телах,,,,,,Prep,Prep,,,,,,Prep,Prep,Prep,Prep,Prep,Prep,Prep,Prep+Transfer,Prep+Gov+Syntax,Prep,Gov+Subst,Gov+Subst
+"Если ты не соответствуешь стандардам, тебя наказывают, часто очень сильно.",стандардам,,,Infl,Ortho,Ortho,Ortho,Infl+Subst,,,Ortho+Subst,,Ortho+Subst,,,,,,,Ortho,Ortho,Ortho,Ortho+Subst,Ortho+Subst,Ortho+Subst
+"Но правда в том, что мы все несовершенны, и ошибки могут нам помогать чтобы стать лучшими людьми и быть счастливым.",нам помогать,,Ref,,,,,,AgrNum+Subst,,,,,,,,,,,,,,,,
+"Но правда в том, что мы все несовершенны, и ошибки могут нам помогать чтобы стать лучшими людьми и быть счастливым.",помогать чтобы,Conj,Conj,Conj,Conj,,,Conj,,Conj,,,,Miss,Constr,Constr,Constr,Constr,Constr,Conj,Syntax,Syntax+Transfer,Gov,Constr,Gov+Subst
+"Но правда в том, что мы все несовершенны, и ошибки могут нам помогать чтобы стать лучшими людьми и быть счастливым.",счастливым,AgrNum,AgrNum,AgrNum,AgrNum,AgrNum,,AgrNum,,AgrNum,AgrNum,AgrNum+Subst,,AgrNum,AgrPers,AgrNum,AgrNum,AgrNum,AgrNum,AgrNum,AgrNum,AgrNum,AgrNum,AgrNum+Subst,AgrNum+Subst
+"Итак, ошибки – эти проблемы или бесполезны, как все думают?",эти проблемы,,WO,Lex,Ref,,,Constr+Subst,Lex,Gender,Ref+Subst,,,Constr,Syntax,Syntax,Constr,AgrCase,Constr,Ref+Num,Ref,Lex+Ref,Lex+Subst,Lex+Subst,Ref+Subst
+"Итак, ошибки – эти проблемы или бесполезны, как все думают?",бесполезны,,,,,,,,,,,,,,,,,Brev,Brev,,,,,,
+"Итак, ошибки – эти проблемы или бесполезны, как все думают?",эти проблемы или бесполезны,,,,,,,,,,,,,Conj,,,,,,,,,,,Constr
+"По моему мнению, абсолютно нет.",По моему мнению,Ortho,WO,,,,Caps,Ortho+Subs,,,,,Syntax+Miss,,Hyphen,Idiom,,Hyphen+Insert,,,,,,,
+"Мы думаем что, потому что нас учат этому с детства, и это может означать, что мы никогда не будем довольны с тем, что мы делаем.",думаем что,Conj,Conj,Conj,,,,Conj,Not-clear,Miss,,,,Miss,Conj,Extra,,Conj,,,Syntax,WO+Syntax,Constr,WO,Syntax+Extra
+"Мы думаем что, потому что нас учат этому с детства, и это может означать, что мы никогда не будем довольны с тем, что мы делаем.",довольны с тем,Gov,Gov,Gov,Gov,Gov,Gov,Gov,Gov+Subst,Gov,Gov,Gov+Extra,Gov,Prep,Gov,Prep,Gov,Gov,Gov,Prep+Gov,Prep+Transfer,Prep+Gov+Transfer,Gov+Transfer,Gov+Subst,Gov+Subst+Transfer
+"Если мы хотим быть счастливее и меньше напряжёнными, мы должны бы принимать ошибки как возможности.",меньше напряжёнными,Com,,,,,,,Lex,Com,,,Mode,Com,Com,,,,,Com,Com,Com,Com,Com,
+"Если мы хотим быть счастливее и меньше напряжёнными, мы должны бы принимать ошибки как возможности.",напряжёнными,,,AgrCase,,,,,,Mode,,,,,,Lex,,,Lex,,,,,,
+"Если мы хотим быть счастливее и меньше напряжёнными, мы должны бы принимать ошибки как возможности.",должны бы,Mode+Miss,Mode,Mode,Mode,Mode,Mode,Mode,Mode+Extra,Mode,,Mode,Mode,WO,WO,Mode,WO,Mode,Mode,Mode,Mode,Mode,Mode,Mode,
+"На мой взгляд, это первый шаг к лучшей жизни.",к лучшей жизни,,,,,,,Prep,,,,,,,,,,,,,,,,,
